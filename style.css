@@ -57,7 +57,7 @@ h3 {
 .youtube {
     width: 50px;
     height: 50px;
-    border-radius: 10px;
+    border-radius: 50px;
     animation: pulse 2s infinite;
 }
 @keyframes float {
